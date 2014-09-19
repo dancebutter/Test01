@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello Page Test</title>
+<title>Hello Page Test02</title>
 </head>
 <body>
 <h1><font color="blue">${title}</font></h1>
